@@ -1,7 +1,7 @@
 # Clima
 Um sistema para conferir o clima das Cidades.
 
-Deployy: https://aline054.github.io/Clima/
+Deploy: https://aline054.github.io/Clima/
 
 
 
